@@ -1,4 +1,4 @@
-Zend Framework 2 - Kapitchi Poll module
+Zend Framework 2 - Kapitchi Config module
 ==============================================
 
 __Version:__ 0.1-dev  
