@@ -1,22 +1,33 @@
-Zend Framework 2 - Kapitchi Config module
-=================================================
-Version: 0.1
-Author:  Matus Zeman
-Planned delivery date: 01/05/2012
+Zend Framework 2 - Kapitchi Poll module
+==============================================
 
-Please join the following group in order to get development updates e.g. new features, changes in API ...     
-https://groups.google.com/d/forum/kapitchi-modules-updates
+__Version:__ 0.1-dev  
+__Author:__  [Kapitchi Team](http://kapitchi.com/team)  
+__Website:__ [http://kapitchi.com](http://kapitchi.com)  
+__Demo:__    [http://kapitchi.com/showcase](http://kapitchi.com/showcase)  
 
-RSS 2.0: https://groups.google.com/group/kapitchi-modules-updates/feed/rss_v2_0_topics.xml  
-Atom 1.0: https://groups.google.com/group/kapitchi-modules-updates/feed/atom_v1_0_topics.xml  
+__README.md status:__ INCOMPLETE  
+
+Licence
+=======
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://kapitchi.com" property="cc:attributionName" rel="cc:attributionURL">Kapitchi Team</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_GB">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+
 
 Introduction
-------------
+============
+
 Provides user configuration options for your application - overwrites allowed config file settings.
 Can be used by "admin system" to overwrite default module settings e.g. enable/disable module plugins etc. 
 
-Requirements
-------------
 
-* [Zend Framework 2](https://github.com/zendframework/zf2) (latest master)
-* [KapitchiBase](https://github.com/matuszemi/KapitchiBase) (latest master)
+Installation
+============
+
+TODO
+
+Basic Usage
+===========
+
+TODO
+
